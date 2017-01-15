@@ -1,3 +1,7 @@
+---
+title: Blogging Like a Hacker
+---
+
 # Intro to Data Analysis with Python
 
 ## Learning by Coding
